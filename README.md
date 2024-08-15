@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Ishan Madushanka</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
-<img align="right" alt="full stack" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-U-nkxGvp25IvbinfkPb7n3FhU9-vwO6NzQ&s" style="width: 500px; height: 500px;">
+<img align="right" alt="full stack" src="https://m.media-amazon.com/images/I/41nOJQdM70L._AC_UF1000,1000_QL80_.jpg" style="width: 500px; height: 500px;">
 
 <br>
 
@@ -21,6 +21,7 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
+<br>
 <p align="left">
 <a href="https://linkedin.com/in/ishan-madushanka-75071b189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan-madushanka-75071b189" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22176960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22176960" height="30" width="40" /></a>
