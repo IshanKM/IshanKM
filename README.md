@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Ishan Madushanka</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
-<img align="right" alt="full stack" src="https://m.media-amazon.com/images/I/41nOJQdM70L._AC_UF1000,1000_QL80_.jpg" style="width: 500px; height: 500px;">
+<img align="right" alt="full stack" src="https://m.media-amazon.com/images/I/41nOJQdM70L._AC_UF1000,1000_QL80_.jpg" style="width: 400px; height: 400px;">
 
 <br>
 
