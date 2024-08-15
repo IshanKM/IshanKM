@@ -1,4 +1,4 @@
-<img align="right" alt="full stack" src="https://github-profile-ishankm.s3.amazonaws.com/github-profile.png" style="width: 100%; height: "100";">
+<img align="center" alt="full stack" src="https://github-profile-ishankm.s3.amazonaws.com/github-profile.png">
 <h1 align="center">Hi 👋, I'm Ishan Madushanka</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
 <img align="right" alt="full stack" src="https://w0.peakpx.com/wallpaper/365/48/HD-wallpaper-think-twice-code-once-code-computer-programming-syntax.jpg" style="width: 100%; height: "100";">
