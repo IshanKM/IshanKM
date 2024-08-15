@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishan Madushanka</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
-<img align="center" alt="full stack" src="[https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif](https://w0.peakpx.com/wallpaper/365/48/HD-wallpaper-think-twice-code-once-code-computer-programming-syntax.jpg)" width="500" height="300">
+<img align="center" alt="full stack" src="https://w0.peakpx.com/wallpaper/365/48/HD-wallpaper-think-twice-code-once-code-computer-programming-syntax.jpg" width="500" height="300">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishankm&label=Profile%20views&color=0e75b6&style=flat" alt="ishankm" /> </p>
