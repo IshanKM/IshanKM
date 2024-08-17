@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ishanmadushanka.sg@gmail.com**
 
-- ⚡ Fun fact ** Most of my best ideas come to me in the washroom 😂**
+- ⚡ Fun fact **Most of my best ideas come to me in the washroom 😂**
 
 
 <br>
