@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-  <img alt="full stack" src="https://clipart-library.com/images/yckaRkzcE.gif" style="height: 200px;>
+  <img alt="full stack" src="https://content.presentermedia.com/content/animsp/00005000/5658/stick_figures_hand_shake_anim_md_nwm_v2.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
