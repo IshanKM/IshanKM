@@ -20,7 +20,9 @@
 
 
 <br>
-<br>
+<p align="center">
+  <img alt="full stack" src="https://content.presentermedia.com/content/animsp/00005000/5658/stick_figures_hand_shake_anim_md_nwm_v2.gif">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <br>
@@ -33,9 +35,7 @@
 
 <br>
 
-<p align="center">
-  <img alt="full stack" src="https://content.presentermedia.com/content/animsp/00005000/5658/stick_figures_hand_shake_anim_md_nwm_v2.gif">
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
