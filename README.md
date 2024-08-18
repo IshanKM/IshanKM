@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-  <img alt="full stack" src="https://clipart-library.com/images/yckaRkzcE.gif">
+  <img alt="full stack" src="https://clipart-library.com/images/yckaRkzcE.gif" style="height: 200px;>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
