@@ -44,7 +44,7 @@
 <br>
 
 <p align="center">
-  <img alt="full stack" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
+  <img alt="full stack" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" style="width: 4100%; ">
 </p>
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishankm&show_icons=true&locale=en&layout=compact" alt="ishankm" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishankm&show_icons=true&locale=en" alt="ishankm" /></p> <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishankm&" alt="ishankm" /></p>
