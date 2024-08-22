@@ -12,7 +12,7 @@
 
 - 🌱 I'm currently learning **Swift**
 
-- 💬 Ask me about **Spring Boot , MERN , Linux**
+- 💬 Ask me about **Spring Boot , MERN Stack**
 
 - 📫 How to reach me **ishanmadushanka.sg@gmail.com**
 
