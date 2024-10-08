@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="full stack" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Nb8Lo_BFJZxu6n0r8JHkkg.png">
+  <img alt="full stack" src="https://github-profile-ishankm.s3.amazonaws.com/github-profile.png">
 </p>
 <h1 align="center">Hi 👋, I'm Ishan Madushanka</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
